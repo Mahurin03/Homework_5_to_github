@@ -1,2 +1,3 @@
-# homework_to_github
+# Homework as My First Git Push
  
+Gradually learning to use different tools and interfaces.
