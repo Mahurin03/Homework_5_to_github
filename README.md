@@ -1,7 +1,16 @@
-# Homework as My First Git Push
+<style>
+blue { color: blue }
+orange { color: #EBAB37 }
+</style>
+# <orange>Homework assignments</orange>
  
-Gradually learning to use different tools and interfaces.
+These are homework assignments I did for my foundations of computing program course in Data Journalism at Columbia Journalism School.
 
-OK. For training purposes I tweak this text.
+## <blue>Assignments</blue>
 
-Well, then. I deleted a file from the GitHub on the web. But it is still in my repository on my computer.
+* <orange>Assignment 1</orange> – Pandas basics: learning to build a cheart sheet
+* <orange>Assignment 2</orange> – Pandas bascis: reading an Excel file and exploring the data
+
+
+
+
